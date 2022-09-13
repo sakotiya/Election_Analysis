@@ -1,6 +1,6 @@
 # Election Analysis
 ## Overview of Project
-In this project we will be helping Colorado board of elections , in the election audit of the tabulated results of U.S congressional precinct. We will be reporting total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, the winner of the election based on the popular vote, which county has highest votes and number of votes in each county. We are provided with the data representing Balllot id , county and name of the candidate like this in csv file 
+In this project we will be helping Colorado board of elections, in the election audit of the tabulated results of U.S congressional precinct. We will be reporting total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, the winner of the election based on the popular vote, which county has highest votes and number of votes in each county. We are provided with the data representing Balllot id, county and name of the candidate like this in csv file 
 
 ![alt text](resources/Election_data.png)
 
@@ -45,6 +45,6 @@ After reviewing the 369,711 total votes, Denver County had the highest voter tur
 
 ## Election_Audit_Summary
 
-In this election we can also analyze county vise vote to each candidate , i.e how many votes were given to which candidate from the counties. By modifying the script and this can help U.S congressinal to understand where there is low turnout and they can increase the campaginig for larger turnout. 
+In this election we can also analyze county vise vote to each candidate, i.e how many votes were given to which candidate from the counties. By modifying the script and this can help U.S congressinal to understand where there is low turnout and they can increase the campaginig for larger turnout. 
 
-If we have data for different years , we can modify the script by comparing the data for two years and can explore percentage difference on candidate and county. 
+If we have data for different years, we can modify the script by comparing the data for two years and can explore percentage difference on candidate and county. 
